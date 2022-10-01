@@ -1,0 +1,1 @@
+This is my very first project coding with the odin project i am looking forward to being able to create my very first website.gss
